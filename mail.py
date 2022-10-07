@@ -5,7 +5,7 @@ import time
 def smtp_setting(email, password) : 
     mailType = "smtp.naver.com"
     port = 587
-    # gmail : TLS 587 port 
+    # gmail : TLS 587 port => gmail은 써드 파티로 메일 보내는 거 막힘
     # outlook : SSL 465 port
     # naver : SSL 465 port, 587 TLS
 
