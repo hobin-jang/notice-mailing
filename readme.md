@@ -7,7 +7,7 @@
 - requests : pip install requests
 - dotenv : pip install python-dotenv
 
-10분 간격으로 크롤링 후 오늘 날짜 공지 올라오면 메일로 보내기 (해당 게시글 url)
+1시간 간격으로 크롤링 후 오늘 날짜 공지 올라오면 메일로 보내기 (해당 게시글 url)
 
 동일 게시글은 제목으로 판단
 
